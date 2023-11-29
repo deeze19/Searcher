@@ -896,20 +896,20 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### References
 
-1\. \*\*SearXNG GitHub Repository:\*\*
+1\. SearXNG GitHub Repository:
 
 \- Original SearXNG project that Searcher is derived from.
 
 \- \[SearXNG GitHub\](https://github.com/searxng/searxng)
 
-2\. \*\*SearXNG Documentation:\*\*
+2\. SearXNG Documentation:
 
 \- Official documentation for SearXNG, providing insights into its
 features and usage.
 
 \- \[SearXNG Documentation\](https://searxng.github.io/searxng/)
 
-3\. \*\*SearXNG Community Discussions:\*\*
+3\. SearXNG Community Discussions:
 
 \- Join the community discussions around SearXNG for additional insights
 and support.
